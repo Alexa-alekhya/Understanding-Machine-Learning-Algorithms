@@ -1,1 +1,2 @@
-# This repository holds all the submissions and class codes and hopefully the code for a very good ML project, soon!!
+# This repository holds all the submissions and class codes!!
+Final Project - PREDICITING HEART DISEASES using DECISION TREES
